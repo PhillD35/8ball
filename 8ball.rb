@@ -26,7 +26,6 @@ answers = [
 "My sources say no",
 "Outlook not so good",
 "Very doubtful"
-
 ]
 
 hi = [
@@ -36,6 +35,6 @@ hi = [
 ]
 
 puts hi.sample
-sleep (3)
-puts ""
+sleep(3)
+puts
 puts answers.sample
