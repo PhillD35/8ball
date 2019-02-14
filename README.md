@@ -9,4 +9,6 @@ https://ru.wikipedia.org/wiki/Magic_8_ball
 
 Запустить программу можно набрав в командной строке
 
-`ruby 8ball.rb`
+```
+ruby 8ball.rb
+```
